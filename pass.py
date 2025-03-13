@@ -15,7 +15,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Page title and description
-st.title("🔐 Password Strength Checker")
+st.title("🔐 Password Strength Checker By Muhammed Shahzeb")
 
 def check_password_strength(password):
     score = 0
